@@ -1,1 +1,1 @@
-web: python jewel.py
+service: npm start
